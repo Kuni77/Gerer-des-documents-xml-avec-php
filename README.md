@@ -4,11 +4,11 @@
 
 
 ## Screenshots
-##Examen
+## Examen
 <img src="./img/exam1.PNG" alt="" width="200" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/exam2.PNG" alt="" width="200" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/exam3.PNG" alt="" width="200" height="150"/>
-##Cinema
+## Cinéma
 <img src="./img/cine1.PNG" alt="" width="200" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/cine2.PNG" alt="" width="200" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/cine3.PNG" alt="" width="200" height="150"/>
-##Portail
+## Portail
 <img src="./img/fiche1.PNG" alt="" width="200" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/fiche2.PNG" alt="" width="200" height="150"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./img/fiche3.PNG" alt="" width="200" height="150"/>
 
 
